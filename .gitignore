@@ -1,2 +1,7 @@
-dataset/*
-ipynb_checkpoints/*
+dataset/flower5/*
+dataset/flower102/*
+dataset/flower5.tar.gz
+dataset/flower102.tgz
+dataset/imagelabels.mat
+.ipynb_checkpoints/*
+param/*.h5
